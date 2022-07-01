@@ -1,6 +1,6 @@
 <img 
 	width = "100%"
-	src="https://github.com/JavaScriptForEverything/javascriptforeverything/blob/main/githubCoverPhoto.png"
+	src="https://github.com/JavaScriptForEverything/javascriptforeverything/blob/main/BannerForGithub.png?raw=true"
 	alt="My Profile Picture"
 />
 
