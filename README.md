@@ -4,7 +4,7 @@
 	alt="JavaScript For Everything Banner" 
 />
 
----
+
 
 # 👋 Hello, I'm JavaScriptForEverything  
 ## Full-Stack Web Developer | React | Node.js | Docker | Kubernetes | MERN Stack | Real-Time Apps
@@ -12,7 +12,7 @@
 🚀 Passionate about building fast, secure, and scalable web apps with modern tools.  
 🔁 Experienced in DevOps, large file handling, real-time communication, and clean API architecture.
 
----
+
 
 ## 🔧 Tech Stack
 
