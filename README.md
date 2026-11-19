@@ -30,7 +30,7 @@
 - 🔹 **Twitter Clone** – Real-time social media app with SSR and chat features
 
 ➡️ **Live Portfolio:** [javascriptforeverything.vercel.app](https://javascriptforeverything.vercel.app)  
-➡️ **YouTube Channel:** [youtube.com/@JavaScriptForEverything](https://youtube.com/@riajul-businessnify)  
+➡️ **YouTube Channel:** [youtube.com/@riajul-businessnify](https://youtube.com/@riajul-businessnify)  
 ➡️ **GitHub:** [github.com/JavaScriptForEverything](https://github.com/JavaScriptForEverything)
 
 ---
@@ -43,10 +43,10 @@
 
 ## 🤝 Let's Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JavaScriptForEverything/)](https://www.linkedin.com/in/JavaScriptForEverything/)
-[![Twitter Badge](https://img.shields.io/badge/-JSForEverything-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JSforEverything)](https://twitter.com/JSforEverything)
-[![Facebook Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/JavaScriptForEverything/)](https://www.facebook.com/JavaScriptForEverything/)
-[![Instagram Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/javascriptforeverything/)](https://www.instagram.com/javascriptforeverything/)
+[![Linkedin Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riajul-businessnify)](https://www.linkedin.com/in/riajul-businessnify)
+[![Twitter Badge](https://img.shields.io/badge/-JSForEverything-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/businessnify)](https://twitter.com/businessnify)
+[![Facebook Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/riajul.businessnify)](https://www.facebook.com/riajul.businessnify)
+[![Instagram Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/riajul.businessnify)](https://www.instagram.com/riajul.businessnify)
 
 ---
 
