@@ -43,7 +43,8 @@
 
 ## 🤝 Let's Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-@riajul-businessnify-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riajul-businessnify)](https://www.linkedin.com/in/riajul-businessnify)
+[![Linkedin Badge](https://img.shields.io/badge/-riajul-businessnify-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/riajul-businessnify)](https://www.linkedin.com/in/riajul-businessnify)
+[![Linkedin Badge](https://img.shields.io/badge/-riajul-businessnify-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riajul-businessnify)](https://www.linkedin.com/in/riajul-businessnify)
 [![Twitter Badge](https://img.shields.io/badge/-@businessnify-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/businessnify)](https://twitter.com/businessnify)
 [![Facebook Badge](https://img.shields.io/badge/-riajul.businessnify-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/riajul.businessnify)](https://www.facebook.com/riajul.businessnify)
 [![Instagram Badge](https://img.shields.io/badge/-riajul.businessnify-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/riajul.businessnify)](https://www.instagram.com/riajul.businessnify)
