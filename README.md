@@ -30,7 +30,7 @@
 - 🔹 **Twitter Clone** – Real-time social media app with SSR and chat features
 
 ➡️ **Live Portfolio:** [javascriptforeverything.vercel.app](https://javascriptforeverything.vercel.app)  
-➡️ **YouTube Channel:** [youtube.com/@JavaScriptForEverything](https://youtube.com/@JavaScriptForEverything)  
+➡️ **YouTube Channel:** [youtube.com/@JavaScriptForEverything](https://youtube.com/@riajul-businessnify)  
 ➡️ **GitHub:** [github.com/JavaScriptForEverything](https://github.com/JavaScriptForEverything)
 
 ---
